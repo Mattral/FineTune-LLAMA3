@@ -1,3 +1,3 @@
-LLAMA 3 finetuneing.
+currently LLAMA 3 finetuneing.
 
-Will update more later.
+Will update more LLMs later.
